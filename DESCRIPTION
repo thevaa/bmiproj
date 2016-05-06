@@ -1,12 +1,12 @@
 Package: bmiproj
 Type: Package
-Title: The package does contains some basic statistical functions
+Title: Some Basic Statistical Functions
 Version: 0.1
 Date: 2016-05-02
 Author: Thevaa Chandereng
 Maintainer: Thevaa Chandereng <chandereng@wisc.edu>
-Description: This packages contain some of the most frequent function that I have used in my last two years of graduate school
-License: MIT
+Description: This packages contain some of the most frequent function that I have used in my last two years of graduate school.
+License: MIT + file LICENSE
 LazyData: TRUE
-Suggests: knitr, rmarkdown
+Suggests: knitr, rmarkdown, testthat
 VignetteBuilder: knitr
