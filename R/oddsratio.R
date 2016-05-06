@@ -3,7 +3,6 @@
 #'  This functions prints a list of odds ratio and confidence interval for a 2x2
 #'  count data
 #'
-#'   @param mu a numeric value of old mean
 #'   @param x a vector of length 4 with the data in the order of a, b, c, d
 #'   @param CI a numeric vector indicating the two sided confidence interval
 #'   @return a list of two elements: element 1 is the odds ratio, element 2 is a vector of length
