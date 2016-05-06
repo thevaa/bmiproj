@@ -8,5 +8,5 @@ Maintainer: Thevaa Chandereng <chandereng@wisc.edu>
 Description: This packages contain some of the most frequent function that I have used in my last two years of graduate school.
 License: MIT + file LICENSE
 LazyData: TRUE
-Suggests: knitr, rmarkdown
+Suggests: knitr, rmarkdown, testthat
 VignetteBuilder: knitr
